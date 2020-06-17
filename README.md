@@ -3,7 +3,7 @@ A LAN based chat application built with Java Sockets with MySQL database for fil
 
 Usage Instructions:
 
-1. This application uses MySQL for the file transfer module. Therefore, ensure that MySQL is installed on your system. Run the following queries:
+1. This application uses MySQL for the file transfer module. Therefore, ensure that MySQL is installed on your system. Run the following queries ONE BY ONE:
 
 create database connect;
 use connect;
