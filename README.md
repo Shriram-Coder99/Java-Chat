@@ -1,6 +1,6 @@
 # Java-Chat
 A LAN based chat application built with Java Sockets with MySQL database for file transfer capabilities.
-
+Use of NetBEans Recommended.
 Usage Instructions:
 
 1. This application uses MySQL for the file transfer module. Therefore, ensure that MySQL is installed on your system. Run the following queries ONE BY ONE:
