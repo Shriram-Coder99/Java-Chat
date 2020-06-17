@@ -13,4 +13,4 @@ and you are good to go.
 
 2. Run the server application first. The server will then wait for clients to connect. Then, run the clients.
 
-3. The rest is pretty straightforward.Use attach to send a file across the network and download to retrieve a file from the MySQL database.
+3. The rest is pretty straightforward.Send messages using the send button and use attach to send a file across the network and download to retrieve a file from the MySQL database.
